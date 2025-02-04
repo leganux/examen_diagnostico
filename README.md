@@ -154,4 +154,3 @@ Requisitos:
 
 Puedes usar cualquier framework para desarrollar la API (por ejemplo, Express.js en Node.js o FastAPI en Python).
 
-Ahora las instrucciones son más claras y estructuradas. ¿Quieres que agregue más detalles o ejemplos? 😊
